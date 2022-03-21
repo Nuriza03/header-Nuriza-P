@@ -1,0 +1,13 @@
+header{
+    background-color:steelblue;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+}
+.item{
+    display: flex;
+    justify-content: space-around;
+    width: 200px;
+
+}
